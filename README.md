@@ -32,13 +32,6 @@ A modern developer portfolio built with **React**, **Tailwind CSS**, and **Vite*
 
 ---
 
-## 🎨 Preview
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400"/>
-</p>
-
----
-
 ## ⚡ Quick Start
 ```bash
 git clone https://github.com/Abusin2002/portfolio_site.git
